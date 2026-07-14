@@ -1,0 +1,37 @@
+{
+  "title": "VERINOX AEGISLOOP v2.0: Sovereign Evidence-Closed Recovery Fabric",
+  "description": "A proposed candidate invention blueprint for causally bound recovery of cyber-physical and reconfigurable systems, combining claim-scoped evidence independence, dual counterfactual outcomes, one-use bonded actuation, multi-horizon measured closure, and revocable learning lineage. This is a technical disclosure, not a patent, implemented product, certification, or independent validation.",
+  "creators": [
+    {
+      "name": "Haxhijaha, Agim",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0002-3234-7765"
+    }
+  ],
+  "version": "2.0",
+  "publication_date": "2026-07-14",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "access_right": "open",
+  "license": "cc-by-nc-nd-4.0",
+  "language": "eng",
+  "keywords": [
+    "cyber-physical recovery",
+    "runtime assurance",
+    "causal evidence",
+    "autonomous recovery",
+    "fault containment",
+    "reconfigurable computing",
+    "outcome verification",
+    "safe learning"
+  ],
+  "notes": "Independent Research Publication No. 5. v2.0 Publication Candidate. Not peer reviewed. Proposed candidate invention blueprint; no implementation or validation supplied. Generative AI tools assisted research synthesis, consolidation, editing, and publication preparation. The named author directed the work and is responsible for the released content and publication decision.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/AGIM8003/verinox-aegisloop",
+      "relation": "isSupplementedBy",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ]
+}
