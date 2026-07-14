@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you reference VERINOX AEGISLOOP, please cite the author, title, and exact version."
+title: "VERINOX AEGISLOOP: Sovereign Evidence-Closed Recovery Fabric"
+abstract: "A proposed causally bound recovery architecture combining claim-scoped evidence independence, dual counterfactual outcomes, one-use actuator authorization, multi-horizon measured closure, and revocable learning lineage."
+authors:
+  - family-names: "Haxhijaha"
+    given-names: "Agim"
+version: "2.0"
+date-released: 2026-07-14
+license: CC-BY-NC-ND-4.0
+keywords:
+  - cyber-physical recovery
+  - runtime assurance
+  - causal evidence
+  - autonomous recovery
+  - fault containment
+  - reconfigurable computing
+  - outcome verification
+  - safe learning
+
