@@ -44,6 +44,7 @@ No blueprint can guarantee 100% novelty or patentability. Those require professi
 | `.zenodo.json` | Zenodo archival metadata |
 | `LICENSE.md` | Documentation license and rights boundary |
 | `AI_ASSISTANCE_DISCLOSURE.md` | Transparent disclosure of AI assistance |
+| `PUBLISHING_INSTRUCTIONS.md` | Exact authorized GitHub and Zenodo workflow |
 | `PUBLICATION_CHECKLIST.md` | Pre-release and post-release checks |
 | `CHANGELOG.md` | Version history |
 | `RELEASE_NOTES.md` | Ready-to-paste release description |
@@ -57,3 +58,4 @@ Haxhijaha, A. (2026). *VERINOX AEGISLOOP: Sovereign Evidence-Closed Recovery Fab
 ## Publication gate
 
 Before public release, choose whether to seek patent advice or file first. Public disclosure may affect patent options. If publishing intentionally for recognition and prior-art effect, retain the release date, immutable archive, version, citation, and SHA-256 manifest.
+
