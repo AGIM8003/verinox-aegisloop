@@ -1,0 +1,12 @@
+{
+  "ok": "CLOSURE_PASS",
+  "indep": "EVIDENCE_INDEPENDENT_FAIL",
+  "env": "ENVELOPE_VIOLATION",
+  "bond": "BOND_REUSED",
+  "numbers": {
+    "pre_sensors": 2,
+    "predicted_max_c": 80,
+    "measured_c": 72
+  },
+  "pass": true
+}

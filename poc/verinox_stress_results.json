@@ -1,0 +1,7 @@
+{
+  "pre_pairs": 2000,
+  "verdict": "CLOSURE_PASS",
+  "seconds": 0.0137,
+  "peak_kib": 1016.2,
+  "pass": true
+}

@@ -1,0 +1,23 @@
+{
+  "rows": [
+    {
+      "i": 0,
+      "engine": "CLOSURE_PASS",
+      "oracle": "CLOSURE_PASS",
+      "match": true
+    },
+    {
+      "i": 1,
+      "engine": "ENVELOPE_VIOLATION",
+      "oracle": "ENVELOPE_VIOLATION",
+      "match": true
+    },
+    {
+      "i": 2,
+      "engine": "EVIDENCE_INDEPENDENT_FAIL",
+      "oracle": "EVIDENCE_INDEPENDENT_FAIL",
+      "match": true
+    }
+  ],
+  "replication_pass": true
+}

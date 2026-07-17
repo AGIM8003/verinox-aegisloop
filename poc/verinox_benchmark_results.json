@@ -1,0 +1,10 @@
+{
+  "cases": [
+    {
+      "name": "400_pre_close",
+      "pass": true,
+      "seconds": 0.000465
+    }
+  ],
+  "all_pass": true
+}
