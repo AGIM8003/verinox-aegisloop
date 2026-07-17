@@ -1,0 +1,248 @@
+{
+  "package": "VERINOX_AEGISLOOP",
+  "version": "3.0.0",
+  "file_count": 48,
+  "files": [
+    {
+      "path": ".zenodo.json",
+      "bytes": 2302,
+      "sha256": "9e2d59694735d1fc1ce02f49a34b3c3769f28f3e2ebe3560e42e7f920907519f"
+    },
+    {
+      "path": "AI_ASSISTANCE_DISCLOSURE.md",
+      "bytes": 1037,
+      "sha256": "41e68a1ef7cedefd5ddc8259ddebed856f24d9bf51f3cadf6ec20088e70c5dae"
+    },
+    {
+      "path": "ARCHITECTURE_DIAGRAMS.md",
+      "bytes": 2604,
+      "sha256": "f50b5ccc33d51ebaff2596317472ef3fddc7232974f8aad8676d04a1f6264e38"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 1470,
+      "sha256": "292c6ae369f66d0e398f5e5fbc3a21816e565608e4ee7101dd10e8515373045b"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 1053,
+      "sha256": "74a8b606579b3d3ebe9a4d6b1c8df594329e2b57aabf99a1346bc666cbb74d9c"
+    },
+    {
+      "path": "INVENTION_CORE.md",
+      "bytes": 4275,
+      "sha256": "d40b7aaa313f508189c49c04957d9d07fb7366113a630c29656af01d57e106b6"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 1295,
+      "sha256": "4c3fe8b2ba9564d04ab117b6f172723d7105725c4c76ea44e3d55441a3bbe42a"
+    },
+    {
+      "path": "PATENT_COUNSEL_BRIEF.md",
+      "bytes": 2977,
+      "sha256": "a96855b539125a04e795d286664c25fbc493a5284a8f9b823d155f6563c4ddae"
+    },
+    {
+      "path": "poc\\REPRODUCE.md",
+      "bytes": 310,
+      "sha256": "69a23c9622ee9918c61b9cde12c6551b4e14f3fc728b17b1768c0917595f4cc9"
+    },
+    {
+      "path": "poc\\verinox_aegisloop\\__init__.py",
+      "bytes": 546,
+      "sha256": "0406c9dc7a7b0788820d0e5c8493498360b182e655a8fbcbba2af9c718374676"
+    },
+    {
+      "path": "poc\\verinox_aegisloop\\core.py",
+      "bytes": 2165,
+      "sha256": "18c44ace737de0149089043d434645d7c6fa97c41fb0638b72790e76ecb74543"
+    },
+    {
+      "path": "poc\\verinox_aegisloop\\engine.py",
+      "bytes": 7184,
+      "sha256": "3aa7aa175c1391d4cce30794aa32eb49e15d2015c4c62b2ca5ca0c2657577a2e"
+    },
+    {
+      "path": "poc\\verinox_aegisloop\\types.py",
+      "bytes": 1131,
+      "sha256": "60ec8111a8cb7c3107dd9e87e7bd1c450a7355bd6df2af3909f5fa2d6114deb2"
+    },
+    {
+      "path": "poc\\verinox_aegisloop\\validators.py",
+      "bytes": 620,
+      "sha256": "a01fcca5175daacae5d97167533e5a091e7477e7c400520ce4e78926131cb3ac"
+    },
+    {
+      "path": "poc\\verinox_alt_impl.py",
+      "bytes": 1905,
+      "sha256": "3409d9187e2fa97f49502724c528b13e8c5871e33d07cbc1b33684a7e6cc4bcf"
+    },
+    {
+      "path": "poc\\verinox_benchmark.py",
+      "bytes": 990,
+      "sha256": "ed79661bea9bf45e77a9269016984ee130873d29343724106f9bef6995e8710c"
+    },
+    {
+      "path": "poc\\verinox_benchmark_results.json",
+      "bytes": 138,
+      "sha256": "e896811954b332936b8f5d8a9bd63ce9d78743a541f81f60ea285243fc55a2ec"
+    },
+    {
+      "path": "poc\\verinox_deploy_manifest.json",
+      "bytes": 294,
+      "sha256": "9034f4bcf64b986ee2f765557f5b949a6cc0ec091f66fd46eb16dbce34e84829"
+    },
+    {
+      "path": "poc\\verinox_evidence.json",
+      "bytes": 77,
+      "sha256": "fd077ddeb44ed8da410773b72664740f82b0b42331faa79ac73f10fcdd9e61c8"
+    },
+    {
+      "path": "poc\\verinox_gate.py",
+      "bytes": 3311,
+      "sha256": "67ff6ea89ebf5bdbd9556715c2c0ce47f907cc3c382bf954e17f7ef3dfe6c669"
+    },
+    {
+      "path": "poc\\verinox_gate_results.json",
+      "bytes": 882,
+      "sha256": "4d9328d6d957b536fc0381f74773ed9c270bd1e0ee235532cfef739fff6526ae"
+    },
+    {
+      "path": "poc\\verinox_integration_results.json",
+      "bytes": 50,
+      "sha256": "ff7ea9954be2a352cf4b418acee4fc8587e9d520b70c195e68ef5e7a987653af"
+    },
+    {
+      "path": "poc\\verinox_integration_test.py",
+      "bytes": 900,
+      "sha256": "eec109a9e2ac44477aad60c3d18006076f8e58af9cedfde8459f63347458ca2c"
+    },
+    {
+      "path": "poc\\verinox_mutation_results.json",
+      "bytes": 774,
+      "sha256": "171fb73fcc9323e5670d1caa5f1e94fd5b2171c5a5fd3b5cc22cacdf4c5f585e"
+    },
+    {
+      "path": "poc\\verinox_mutation_test.py",
+      "bytes": 3211,
+      "sha256": "36c84636ed21fc6ba0329c591c2eb12cc0fb80bd52fbfde0052300025ef257dc"
+    },
+    {
+      "path": "poc\\verinox_poc.py",
+      "bytes": 1313,
+      "sha256": "dea08448e53bc3e44a35a62b87751fe85511138021c5ba673e1d4560cb0fcc8c"
+    },
+    {
+      "path": "poc\\verinox_quickstart.py",
+      "bytes": 541,
+      "sha256": "f5f65a6b85ecb7bb61bcfa0cd0e30fe1fff4fe5aca7625dc62c548ad6a53ee49"
+    },
+    {
+      "path": "poc\\verinox_realworld.py",
+      "bytes": 2729,
+      "sha256": "db01c29ce170c0eb83c8c9512c54689e7b7a0710afb67221abfd0e0b7f3c1ab4"
+    },
+    {
+      "path": "poc\\verinox_realworld_evidence.json",
+      "bytes": 239,
+      "sha256": "618dee937624017dedc0d667c4a8b3acbe6575f3fb2e6089262ba46b9a0b41b8"
+    },
+    {
+      "path": "poc\\verinox_replication_evidence.json",
+      "bytes": 439,
+      "sha256": "758f52b792fe0659cc7b1bfa1d213a8da769b5d680c2c551029fadca114a87b4"
+    },
+    {
+      "path": "poc\\verinox_stress.py",
+      "bytes": 1121,
+      "sha256": "cffdafbbbd8d66682d6a43cb4be4df86e8e6cfa5d09bf4b17a0b46ebe83bb555"
+    },
+    {
+      "path": "poc\\verinox_stress_results.json",
+      "bytes": 117,
+      "sha256": "daf3746404c51c5549405a08d11f8a237726b2f6f6470da884a62e95824e06f5"
+    },
+    {
+      "path": "PRIOR_ART_AND_STANDARDS_REVIEW.md",
+      "bytes": 88,
+      "sha256": "065492c5d26bc194ea3508728bff248d962ae0abcdae97d993b5c04b0fa4dd91"
+    },
+    {
+      "path": "PRIOR_ART_POSITION.md",
+      "bytes": 3945,
+      "sha256": "7c9050091e5cf371e3c4781d17ffcd10bd7fe8d0466552bf6f57227ca1fcdf6e"
+    },
+    {
+      "path": "PROOF_TEST_MATRIX.md",
+      "bytes": 5436,
+      "sha256": "87220cb01e16fc664cf65b7f111e1423e9845c4ceeeee982ad4138e8b856948c"
+    },
+    {
+      "path": "PUBLIC_ABSTRACT.md",
+      "bytes": 2539,
+      "sha256": "145cb7de56e61d3bb8840388813cb1839ff49dc4bc502350839bbc855cc033e5"
+    },
+    {
+      "path": "PUBLIC_EDITION_CHANGELOG.md",
+      "bytes": 169,
+      "sha256": "5947caa440e95bcb71190206c171e3c1df3ab5a93fb0ce3ff75d3dcd1cc1ffb2"
+    },
+    {
+      "path": "PUBLICATION_CHECKLIST.md",
+      "bytes": 1823,
+      "sha256": "f5bfe8f56d1990f5bc447bd641d57d099aeb7bccab0ebca836d4bffcfb9f4ac8"
+    },
+    {
+      "path": "PUBLICATION_READINESS_REPORT.md",
+      "bytes": 103,
+      "sha256": "52ae93b92d850b41eb1f6c88fd75b6d1f63a82e65dfe24be23d4b6a7a0d1b817"
+    },
+    {
+      "path": "PUBLISHING_INSTRUCTIONS.md",
+      "bytes": 2912,
+      "sha256": "24d94c97248e5f7fc6b1882aec849c2b8a5ef02560a7120f648b32ce46c688e4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 500,
+      "sha256": "7e42ac675585a6c968350adc87e4e977f2c45fbf68def255c2ddf829dc593238"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "bytes": 1396,
+      "sha256": "b7ce4dd6fa51b3aa63c5315521f800b46a053bac7cf3d94c5b4e39b8fb1299a8"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 998,
+      "sha256": "f74d03ce847bf5154518d3007f3b6bafd17a1d221aedee69c40bcab1ffe90bbb"
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "bytes": 1564,
+      "sha256": "d297edbc1049c468a13cff489d93893b4547dd6f31165a3b394a0e0a61a7c09d"
+    },
+    {
+      "path": "SSOT.md",
+      "bytes": 142,
+      "sha256": "0df38a0d5cc0d374c750116a6d96caad30906647de6bd0ed2019c2cc970dd23f"
+    },
+    {
+      "path": "VERINOX_AEGISLOOP.md",
+      "bytes": 95668,
+      "sha256": "f8125f72835273ae3ab809945bb1408e1727c50412e3056f1e3521e7cc8d3183"
+    },
+    {
+      "path": "VERINOX_AEGISLOOP_v3.0.0_PUBLIC_RESEARCH_EDITION.md",
+      "bytes": 101725,
+      "sha256": "a9e041a1692306ba1d780ceded3b0e649523001cba8a9c16d6a58d11da9c1fe7"
+    },
+    {
+      "path": "VERINOX_API_REFERENCE.md",
+      "bytes": 610,
+      "sha256": "b002760ab00d09e5679be066d205ca973159bd757cfa3ea9ec74ee349663d866"
+    }
+  ],
+  "note": "PDF REGENERATION NEEDED"
+}

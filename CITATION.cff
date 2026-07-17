@@ -1,20 +1,46 @@
 cff-version: 1.2.0
-message: "If you reference VERINOX AEGISLOOP, please cite the author, title, and exact version."
-title: "VERINOX AEGISLOOP: Sovereign Evidence-Closed Recovery Fabric"
-abstract: "A proposed causally bound recovery architecture combining claim-scoped evidence independence, dual counterfactual outcomes, one-use actuator authorization, multi-horizon measured closure, and revocable learning lineage."
+message: "If you use or discuss this work, please cite it using this metadata."
+title: "VERINOX AEGISLOOP: Sovereign Evidence-Closed Recovery Fabric for Cyber-Physical Systems"
+type: software
 authors:
   - family-names: "Haxhijaha"
     given-names: "Agim"
-version: "2.0"
-date-released: 2026-07-14
-license: CC-BY-NC-ND-4.0
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0002-3234-7765"
+    email: "agim@vertogroup.ai"
+doi: "10.5281/zenodo.21364737"
+version: "3.0.0"
+date-released: "2026-07-17"
+repository-code: "https://github.com/AGIM8003/verinox-aegisloop"
+license: "CC-BY-NC-ND-4.0"
+abstract: >-
+  Autonomous recovery actions in cyber-physical systems can execute without binding
+  independent pre-evidence, predicted dual counterfactual outcome envelopes, one-use
+  actuation authority, multi-horizon measured post-evidence, and revocable learning
+  lineage into one admissible recovery capsule. Watchdogs, failover, digital twins,
+  and many runtime-assurance schemes help, but rarely close that full Evidence-Closed
+  Recovery Loop (ECRL). VERINOX AEGISLOOP is a proposed sovereign evidence-closed
+  recovery fabric that admits recovery to learning only when claim-scoped independent
+  pre-evidence, dual envelopes, a one-use actuation bond, measured post-closure, and
+  a digest-bound capsule agree, with fail-closed verdicts such as CLOSURE_PASS,
+  ENVELOPE_VIOLATION, EVIDENCE_INDEPENDENT_FAIL, BOND_REUSED, and LEARNING_REVOKED.
+  This Public Research Edition (v3.0.0) adds an importable, stdlib-only reference
+  research library (from verinox_aegisloop import VerinoxEngine), Reality Gate PASS
+  (8/8), benchmarks, mutation testing >=90%, an alternative-implementation replication
+  oracle, a numeric coolant-recovery real-world scenario, and stress tests to 2000
+  pre-evidence pairs. It does not claim IEC 61508 / ISO 26262 certification, a patent
+  grant, peer review, independent third-party replication, Freedom-to-Operate clearance,
+  or production readiness. DOI: 10.5281/zenodo.21364737. Released for evaluation,
+  citation, and attempted falsification. PDF regeneration may still be required for
+  the companion PDF artifact after this markdown uplift.
 keywords:
-  - cyber-physical recovery
-  - runtime assurance
-  - causal evidence
-  - autonomous recovery
-  - fault containment
-  - reconfigurable computing
-  - outcome verification
-  - safe learning
-
+  - "evidence-closed-recovery"
+  - "cyber-physical-systems"
+  - "runtime-assurance"
+  - "actuation-bond"
+  - "outcome-envelope"
+  - "causal-evidence"
+  - "fault-containment"
+  - "safe-learning"
+  - "reconfigurable-computing"
+  - "local-first-systems"

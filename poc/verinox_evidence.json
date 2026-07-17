@@ -1,0 +1,5 @@
+{
+  "ok": "CLOSURE_PASS",
+  "bad": "ENVELOPE_VIOLATION",
+  "pass": true
+}

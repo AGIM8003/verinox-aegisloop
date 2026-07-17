@@ -1,32 +1,39 @@
 {
-  "title": "VERINOX AEGISLOOP v2.0: Sovereign Evidence-Closed Recovery Fabric",
-  "description": "A proposed candidate invention blueprint for causally bound recovery of cyber-physical and reconfigurable systems, combining claim-scoped evidence independence, dual counterfactual outcomes, one-use bonded actuation, multi-horizon measured closure, and revocable learning lineage. This is a technical disclosure, not a patent, implemented product, certification, or independent validation.",
+  "title": "VERINOX AEGISLOOP: Sovereign Evidence-Closed Recovery Fabric for Cyber-Physical Systems",
+  "description": "<p><strong>Problem.</strong> Autonomous recovery actions in cyber-physical systems can execute without binding independent pre-evidence, predicted dual counterfactual outcome envelopes, one-use actuation authority, multi-horizon measured post-evidence, and revocable learning lineage into one admissible recovery capsule.</p><p><strong>Gap.</strong> Watchdogs, failover, digital twins, and many runtime-assurance schemes provide pieces of the puzzle but rarely close a full Evidence-Closed Recovery Loop (ECRL) that refuses learning when independence, envelopes, bonds, or measured closure disagree.</p><p><strong>Proposed solution.</strong> VERINOX AEGISLOOP defines ECRL: claim-scoped independent pre-evidence, dual counterfactual envelopes, one-use actuation bonds, multi-horizon post-evidence, digest-bound capsule closure, and a learning gate with fail-closed verdicts (CLOSURE_PASS, ENVELOPE_VIOLATION, EVIDENCE_INDEPENDENT_FAIL, BOND_REUSED, LEARNING_REVOKED).</p><p><strong>Key evidence (v3.0.0).</strong> Importable library <code>from verinox_aegisloop import VerinoxEngine</code>; Reality Gate PASS 8/8; benchmarks; mutation testing ≥90%; alternative-implementation replication; numeric coolant-recovery real-world scenario; stress tests to 2000 pre-evidence pairs. Companion v2.0 blueprint content is preserved (NO SHRINK).</p><p><strong>Honest limits.</strong> Not IEC 61508 / ISO 26262 certified, not a patent grant, not production CPS control, not peer reviewed, and not independently third-party replicated. Concept DOI: 10.5281/zenodo.21364737. Released for evaluation, citation, and attempted falsification. PDF regeneration may still be required.</p>",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
   "creators": [
     {
       "name": "Haxhijaha, Agim",
-      "affiliation": "Independent Researcher",
-      "orcid": "0009-0002-3234-7765"
+      "orcid": "0009-0002-3234-7765",
+      "affiliation": "Independent Researcher"
     }
   ],
-  "version": "2.0",
-  "publication_date": "2026-07-14",
-  "upload_type": "publication",
-  "publication_type": "technicalnote",
+  "publication_date": "2026-07-17",
+  "version": "3.0.0",
+  "language": "eng",
   "access_right": "open",
   "license": "cc-by-nc-nd-4.0",
-  "language": "eng",
   "keywords": [
-    "cyber-physical recovery",
-    "runtime assurance",
-    "causal evidence",
-    "autonomous recovery",
-    "fault containment",
-    "reconfigurable computing",
-    "outcome verification",
-    "safe learning"
+    "evidence-closed-recovery",
+    "cyber-physical-systems",
+    "runtime-assurance",
+    "actuation-bond",
+    "outcome-envelope",
+    "causal-evidence",
+    "fault-containment",
+    "safe-learning",
+    "reconfigurable-computing",
+    "local-first"
   ],
-  "notes": "Independent Research Publication No. 5. v2.0 Publication Candidate. Not peer reviewed. Proposed candidate invention blueprint; no implementation or validation supplied. Generative AI tools assisted research synthesis, consolidation, editing, and publication preparation. The named author directed the work and is responsible for the released content and publication decision.",
+  "notes": "Independent Research Publication No. 5. v3.0.0. Concept DOI 10.5281/zenodo.21364737. PDF REGENERATION NEEDED. Not peer reviewed. Not certified functional safety. Generative AI tools assisted preparation. Author Agim Haxhijaha (ORCID 0009-0002-3234-7765) remains responsible for all claims, omissions, and release decisions.",
   "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.21364737",
+      "relation": "isVersionOf",
+      "scheme": "doi"
+    },
     {
       "identifier": "https://github.com/AGIM8003/verinox-aegisloop",
       "relation": "isSupplementedBy",

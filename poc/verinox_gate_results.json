@@ -1,0 +1,49 @@
+{
+  "gate": "VERINOX Reality Gate",
+  "passed": 8,
+  "total": 8,
+  "all_pass": true,
+  "timestamp": "2026-07-17T07:38:12.416207+00:00",
+  "results": [
+    {
+      "name": "closure_pass",
+      "pass": true,
+      "error": null
+    },
+    {
+      "name": "envelope_violation",
+      "pass": true,
+      "error": null
+    },
+    {
+      "name": "independence_fail",
+      "pass": true,
+      "error": null
+    },
+    {
+      "name": "bond_reused",
+      "pass": true,
+      "error": null
+    },
+    {
+      "name": "pending",
+      "pass": true,
+      "error": null
+    },
+    {
+      "name": "learning_revoked",
+      "pass": true,
+      "error": null
+    },
+    {
+      "name": "capsule_digest",
+      "pass": true,
+      "error": null
+    },
+    {
+      "name": "recovery_capsule",
+      "pass": true,
+      "error": null
+    }
+  ]
+}

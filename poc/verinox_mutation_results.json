@@ -1,0 +1,48 @@
+{
+  "killed": 10,
+  "total": 10,
+  "kill_rate": 1.0,
+  "pass": true,
+  "results": [
+    {
+      "name": "force_independent",
+      "killed": true
+    },
+    {
+      "name": "always_pass",
+      "killed": true
+    },
+    {
+      "name": "ignore_bond_reuse",
+      "killed": true
+    },
+    {
+      "name": "ignore_revoke",
+      "killed": true
+    },
+    {
+      "name": "fake_post",
+      "killed": true
+    },
+    {
+      "name": "indep_fn",
+      "killed": true
+    },
+    {
+      "name": "widen_envelope",
+      "killed": true
+    },
+    {
+      "name": "fake_pre",
+      "killed": true
+    },
+    {
+      "name": "cf_bypass",
+      "killed": true
+    },
+    {
+      "name": "reuse_as_pass",
+      "killed": true
+    }
+  ]
+}
